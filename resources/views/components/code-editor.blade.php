@@ -17,7 +17,7 @@
     >
         <div
             wire:ignore
-            class="w-full border"
+            class="w-full border rounded-lg"
             x-ref="codeeditor"
             style="min-height: 150px;"
         ></div>
